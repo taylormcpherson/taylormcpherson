@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taylormcpherson
+- 👋 Hi, I’m @taylormcpherson, a frontend software engineer.
 - 🥳 View my frontend development portfolio here : https://www.taylormcpherson.dev/
 - 👀 I’m interested in front end development, ux engineering, dogs, coffee, surfing, and slow fashion. 
 - 🌱 I’m currently learning react.js.
