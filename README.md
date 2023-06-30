@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taylormcpherson, a frontend software engineer.
 - 🥳 View my frontend development portfolio here : https://www.taylormcpherson.dev/
 - 👀 I’m interested in ux engineering,  digital accessibilty, advanced animations, and dogs. 
-- 🌱 I’m currently learning react.js and typescript.
+- 🌱 I’m currently learning advanced css animations, react, and typescript.
 - 📫 How to reach me : taylormcpherson.dev@gmail.com or https://www.linkedin.com/in/taylor-mcpherson/
 
 <!---
